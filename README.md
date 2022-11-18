@@ -1,1 +1,1 @@
-# Go
+# Go Sample google go project
